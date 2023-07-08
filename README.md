@@ -1,6 +1,6 @@
 ### Hey 👋
 
-<a href="https://twitter.com/lvlcn-t">
+<a href="https://twitter.com/lvlcn_t">
   <img align="left" alt="lvlcn-t | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
