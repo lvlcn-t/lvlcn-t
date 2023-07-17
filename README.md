@@ -1,7 +1,7 @@
 ### Hey 👋
 
 <a href="https://twitter.com/lvlcn_t">
-  <img align="left" alt="lvlcn-t | Twitter" width="22px" src="https://github.com/lvlcn-t/lvlcn-t/assets/75443136/672eb5e7-c5ad-4bdb-b736-1e500442aadf" />
+  <img align="left" alt="lvlcn-t | Twitter" width="22px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/75443136/252329156-672eb5e7-c5ad-4bdb-b736-1e500442aadf.png" />
 </a>
 
 
