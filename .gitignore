@@ -22,6 +22,8 @@ go.work
 
 # IDE directories
 .vscode/
+!.vscode/settings.json
+!.vscode/launch.json
 .idea/
 
 # Environment files
