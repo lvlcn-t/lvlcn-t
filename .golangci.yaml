@@ -131,7 +131,8 @@ issues:
   exclude-rules:
     - path: _test\.go
       linters:
-        - gomnd
+        - gomnd # test files can have magic numbers
+        - revive # test files can have unused parameters
 
     - path: pkg/golinters/errcheck.go
       text: "SA1019: errCfg.Exclude is deprecated: use ExcludeFunctions instead"
