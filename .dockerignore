@@ -21,6 +21,8 @@ Dockerfile
 # Distribution / packaging
 env/
 build/
+dist/
+node_modules/
 
 # Vim swap files
 **/*.swp
