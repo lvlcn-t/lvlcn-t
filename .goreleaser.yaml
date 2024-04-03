@@ -1,3 +1,4 @@
+# TODO: Update the project name and other metadata when you copy this snippet to your project.
 project_name: lvlcn-t
 builds:
   - env: [CGO_ENABLED=0]
