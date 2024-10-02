@@ -20,7 +20,7 @@ I'm working with a variety of languages and tools. Here are some of them:
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+<!-- [![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) -->
 
 #### Frontend
 
@@ -42,7 +42,7 @@ I'm working with a variety of languages and tools. Here are some of them:
 <!-- [![Argo CD](https://img.shields.io/badge/-Argo_CD-009485?style=for-the-badge&logo=git&logoColor=white)](https://argo-cd.readthedocs.io/en/stable/) -->
 
 [![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-<!-- [![Azure Functions](https://img.shields.io/badge/-Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)](https://azure.microsoft.com/en-us/products/functions/) -->
+[![Azure Functions](https://img.shields.io/badge/-Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)](https://azure.microsoft.com/en-us/products/functions/)
 
 #### CI/CD
 
