@@ -26,6 +26,9 @@ Feel free to fork something or open a PR if you spot a bug or have an idea.
 
 ### 🧰 Tools I work with
 
+<details>
+<summary>Click to expand</summary>
+
 #### 💻 Languages
 
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
@@ -63,6 +66,9 @@ Feel free to fork something or open a PR if you spot a bug or have an idea.
 
 [![Docusaurus](https://img.shields.io/badge/-Docusaurus-003366?style=for-the-badge&logo=docusaurus&logoColor=white)](https://docusaurus.io/)
 [![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
+
+</details>
+
 </div>
 
 ---
