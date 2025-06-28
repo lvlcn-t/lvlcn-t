@@ -16,8 +16,8 @@ Feel free to fork something or open a PR if you spot a bug or have an idea.
   
 ### 📬 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tom-vendolsky)
-[![BlueSky](https://img.shields.io/badge/-BlueSky-1DA1F2?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/lvlcn-t.dev)
+[![BlueSky](https://img.shields.io/badge/-BlueSky-FFFFFF?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/lvlcn-t.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=indeed)](https://linkedin.com/in/tom-vendolsky)
 
 </div>
 
@@ -27,7 +27,7 @@ Feel free to fork something or open a PR if you spot a bug or have an idea.
 ### 🧰 Tools I work with
 
 <details>
-<summary>Click to expand</summary>
+<summary style="user-select: none; cursor: pointer;"><strong>Click to expand</strong></summary>
 
 #### 💻 Languages
 
